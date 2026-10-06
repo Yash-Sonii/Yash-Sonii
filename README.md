@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Yash
 
-### Aspiring Data Analyst · MCA '27 · Ahmedabad, India
+### Aspiring Data Analyst · Ahmedabad, India
 
 I turn raw, messy data into clear answers that people can act on.
 
@@ -20,16 +20,22 @@ I turn raw, messy data into clear answers that people can act on.
 ### 📊 Data & Analysis
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🌱 Currently Learning
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### 🔭 Next Up (Machine Learning)
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ### 🛠️ Also Worked With
 
@@ -40,15 +46,6 @@ I turn raw, messy data into clear answers that people can act on.
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-# 🚀 Projects:
-
-* 📟 **Log Monitoring Dashboard**: a live log-monitoring dashboard built with Flask and containerized with Docker.
-<!-- Add the repo link to the line above, like: ([Repo](https://github.com/Yash-Sonii/your-repo-name)) -->
-
-<!--
-Add your first data project here when it's ready, for example:
-* 📈 **[Project name]**: [the question you answered] using Python, SQL, and Power BI. [Repo](link) · [Dashboard](link)
--->
 
 # 📊 GitHub Stats:
 
@@ -58,4 +55,4 @@ Add your first data project here when it's ready, for example:
 
 ---
 
-📫 Open to data analyst internships and entry-level roles. Graduating 2027.
+📫 Open to data analyst internships and entry-level roles. 
